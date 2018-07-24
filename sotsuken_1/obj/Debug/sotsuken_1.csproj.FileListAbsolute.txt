@@ -1,0 +1,14 @@
+c:\users\171y059\documents\visual studio 2015\Projects\sotsuken_1\sotsuken_1\bin\Debug\sotsuken_1.exe.config
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\bin\Debug\sotsuken_1.exe
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\bin\Debug\sotsuken_1.pdb
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.csprojResolveAssemblyReference.cache
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.Form1.resources
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.Form2.resources
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.Properties.Resources.resources
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.csproj.GenerateResource.Cache
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.exe
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.pdb
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.Form3.resources
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.Form4.resources
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\obj\Debug\sotsuken_1.Form5.resources
+C:\Users\171Y059\Documents\Visual Studio 2015\Projects\sotsuken_1\sotsuken_1\bin\Debug\MySql.Data.dll
